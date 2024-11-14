@@ -1,2 +1,8 @@
-# ALGOMENTORING-16NOV
-Repository ini dibuat untuk mendata kehadiran pengurus di Algomentoring
+# ALGOMENTORING 16 NOVEMBER 2024
+Repository ini digunakan sebagai pendataan kehadiran pengurus di Algomentoring.<br>
+
+Silakan gunakan format berikut:<br>
+**\* Nama, Divisi**  
+
+Berikut adalah daftar hadir Algomentoring pada hari ini:
+* Airin Nova Sahara, Marketing
