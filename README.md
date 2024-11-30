@@ -1,4 +1,4 @@
-# ALGOMENTORING 16 NOVEMBER 2024
+# ALGOMENTORING 30 NOVEMBER 2024
 Repository ini digunakan sebagai pendataan kehadiran pengurus di Algomentoring.<br>
 
 Silakan gunakan format berikut:<br>
