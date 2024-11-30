@@ -6,3 +6,5 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar hadir Algomentoring pada hari ini:
 * Airin Nova Sahara, Marketing
+
+* Restuningrum Sekar Melati, Operating
