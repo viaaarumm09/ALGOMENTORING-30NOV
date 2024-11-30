@@ -7,3 +7,4 @@ Silakan gunakan format berikut:<br>
 Berikut adalah daftar hadir Algomentoring pada hari ini:
 * Airin Nova Sahara, Marketing
 * Daffa Dhiya Ulhaq
+* Isnaini Cahyaningrum, Technology
